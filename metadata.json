@@ -1,0 +1,6 @@
+{
+  "name": "Policy Assistant",
+  "description": "Role-based grounded company policy assistant with source citation and audit logging powered by Gemini API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
